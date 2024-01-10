@@ -1,4 +1,3 @@
-# Xenon-Linux-Assignment
 # internsctl - Custom Linux command
 The ` internsctl ` command is a custom Linux command that provides various functionalities related to system administration tasks. It allows you to perform the following operations:
 
